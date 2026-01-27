@@ -3,7 +3,7 @@
 
 A Computer Science graduate who loves turning ideas into code and tinkering with other peoples 😉
 
-I’ve spent the last few years at Hewlett‑Packard, moving from QA to DevOps to full‑stack engineering, and I’m always looking for the next cool problem to solve.
+I’ve spent the last few years at Hewlett‑Packard, moving from QA to DevOps & Engineering, and I’m always looking for the next cool problem to solve.
 
 ## 📫 Get in touch
 
