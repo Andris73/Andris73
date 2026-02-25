@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Morgan Plant**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Perl](https://img.shields.io/badge/Perl-5B2C6F?style=flat&logo=perl) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git) ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6319?style=flat&logo=githubactions)
 
-A Computer Science graduate who loves turning ideas into code and tinkering with other peoples 😉
+A Computer Science graduate who loves turning ideas into code and tinkering with other peoples 😈
 
 I’ve spent the last few years at Hewlett‑Packard, moving from QA to DevOps & Engineering, and I’m always looking for the next cool problem to solve.
 
